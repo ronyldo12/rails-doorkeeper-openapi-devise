@@ -1,24 +1,10 @@
-# README
+# Set up rails + rspec + devise + doorkeeper + doorkeeper-openid-connect
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The goals for this project is to set up a oauth2 server authentication with following flows:
 
-Things you may want to cover:
+* Authorization Code Flow
+* Client credentials flow
+* Resource Owner Password Flow
+* Implicit Flow
+* OpenID id_token and/or token flow
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
